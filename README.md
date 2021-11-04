@@ -1,1 +1,1 @@
-# Myresume
+My hosted portfolio is [Sujatro Das resume](https://sujatroresume.wordpress.com/)
